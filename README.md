@@ -2,7 +2,7 @@
 
 Mod values files for ASB - temporary uploads before integration into the app fully.
 
-To use these files, download the specific file for your mod and add it to ASB's `values` folder. Then download the new [_manifest.json](./values/_manifest.json) and rename it to `_manifestCustom.json` and put it in the same `values` folder. Edit it and remove all the mod entries that you didn't download. Restart ASB and the new mods should be listed.
+To use these files, download the specific file for your mod and add it to ASB's `values` folder. Then download the new [_manifest.json](./values/_manifest.json) and rename it to `_manifestCustom.json` and put it in the same `values` folder. Edit it and remove all the mod entries that you didn't download. Restart ASB and the new mods should be listed so you can add them in `Settings` -> `Mod Value Manager`.
 
 Of course if you have your own `_manifestCustom.json` already you can just copy over the new mod entries into it.
 
